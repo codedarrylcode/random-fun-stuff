@@ -1,2 +1,3 @@
-# random-fun-stuff
-A bunch of random codes that I've written over the years
+# Random Fun Stuff
+
+A collection of codes that have been written over the years of dabbling in `Python`
